@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-4 mb-3">
                 <h5>Về chúng tôi</h5>
-                <p class="text-muted">Trang web này được phát triển bởi Lại An Phú như một phần của dự án học tập.</p>
+                <p class="">Trang web này được phát triển bởi Lại An Phú như một phần của dự án học tập.</p>
             </div>
            
         <hr class="my-4 bg-secondary">
@@ -13,5 +13,6 @@
             </div>
         </div>
     </div>
-</footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </footer>
