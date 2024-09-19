@@ -4,7 +4,7 @@ define('PATH_MODEL',__DIR__.'/../Models/');
 define('PATH_VIEW',__DIR__.'/../Views/');
 
 
-define('PATH_CONTROLLER_ADMIN',__DIR__.'/../Admin/Controller/');
+define('PATH_CONTROLLER_ADMIN',__DIR__.'/../Admin/Controllers/');
 define('PATH_MODEL_ADMIN',__DIR__.'/../Admin/Models/');
 define('PATH_VIEW_ADMIN',__DIR__.'/../Admin/Views/');
 

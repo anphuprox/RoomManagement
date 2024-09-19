@@ -9,7 +9,7 @@
     <title>Dashboard</title>
 </head>
 <body>
-<?php include('./Template/Layout/header.php') ?>
+<?php include('./Template/Layout/DashBoardheader.php') ?>
 
 <div class="container mt-4">
         <h2><?php echo htmlspecialchars($welcomeMessage); ?></h2>

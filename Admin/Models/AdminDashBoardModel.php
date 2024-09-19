@@ -1,5 +1,5 @@
 <?php
-class MainpageModel{
+class AdminDashboardModel{
 
 public function __construct()
 {

@@ -1,11 +1,12 @@
 <?php
-class MainpageController{
+
+class DashboardController{
     private $view;
     private $model;
     public function __construct()
     {
-        $this->view=PATH_VIEW.'Mainpage.php';
-        $this->model=new MainpageModel();
+        $this->view=PATH_VIEW.'DashBoard.php';
+        $this->model=new DashBoardModel();
     }
     public function index(){
         $welcomeMessage=$this->model->getWelcomeMessage();
@@ -34,3 +35,4 @@ class MainpageController{
 }
 
 ?>
+ 

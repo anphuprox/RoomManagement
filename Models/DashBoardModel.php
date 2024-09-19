@@ -1,5 +1,5 @@
 <?php
-class MainpageModel{
+class DashBoardModel{
 
 public function __construct()
 {
